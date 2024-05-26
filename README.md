@@ -29,6 +29,3 @@ testlist = [0,1,2,3,4,5,6,7,8,9]
 print(f'even numbers :           {testlist[ : :2]}')
 print(f'odd numbers :            {testlist[1: :2]}')
 print(f'numbers between 2 & 7 :  {testlist[3:7  ]}')
-even numbers :           [0, 2, 4, 6, 8]
-odd numbers :            [1, 3, 5, 7, 9]
-numbers between 2 & 7 :  [3, 4, 5, 6]
